@@ -24,21 +24,15 @@
 - 🌐 Love solving coding challenges and working with **C++**
 
 ---
-## 🛠️ Tech Stack & Magic Tools
 
 ## 🛠️ Tech Stack & Magic Tools
 
 <table align="center">
   <tr>
     <td align="center" width="60%">
-      <!-- آیکون‌های مهارت‌ها -->
-      <img src="https://skillicons.dev/icons?i=python,numpy,html,css,js,cpp,django,linux,bash,bootstrap,tailwind,git,github&perline=7" alt="Tech Stack" />
-      <br />
-      <!-- شبکه (Network) چون توی skillicons نیست، دستی با Badge می‌سازیم -->
-      <img src="https://img.shields.io/badge/Network-CCNA%20%7C%20Fundamentals-00D2FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge" />
+      <img src="https://skillicons.dev/icons?i=python,numpy,html,css,js,cpp,django,linux,bash,bootstrap,tailwindcss,git,github" alt="Tech Stack" />
     </td>
     <td align="center" width="40%">
-      <!-- گیف سه‌بعدی میز کار -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="3D Desk" style="border-radius: 15px;" />
     </td>
   </tr>
