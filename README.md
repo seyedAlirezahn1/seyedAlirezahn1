@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me 😎
+## <a target="_blank" rel="noopener noreferrer" href="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Rocket.png"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Rocket.png" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;"></a> About Me 😎
 
 - 🔥 Passionate **programmer**, **musician**
 - 🧠 Currently diving deep into **AI**
