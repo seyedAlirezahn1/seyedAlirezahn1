@@ -1,11 +1,15 @@
-<!-- ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Seyed+Alireza+%F0%9F%91%8B;Python+%26+Django+Developer;AI+Olympiad+Candidate;Music+Composer+%26+Editor;Cyber+Security+Learner;Arch+%2B+Hyprland+Fan+%F0%9F%90%A7" alt="Typing SVG" />
-</p>
+<!-- ============================================ -->
+<!-- 🚀 SEYED ALIREZA - ULTIMATE PROFILE README 🚀 -->
+<!-- ============================================ -->
 
-<!-- WAVY DIVIDER -->
+<!-- ANIMATED HEADER (WAVY) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20Profile!&section=header&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+</p>
+
+<!-- ANIMATED TYPING NAME -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Seyed+Alireza+%F0%9F%91%8B;Python+%26+Django+Developer;AI+Olympiad+Candidate;Music+Composer+%26+Editor;Cyber+Security+Learner;Arch+%2B+Hyprland+Fan+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,13 +34,24 @@
 
 ---
 
-## 🎧 Creative Universe
+## 🎧 Creative Studio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cubase-Music_Production-4C4C4C?style=for-the-badge&logo=steinberg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-Video_Editing-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-Motion_Graphics-1F1F7A?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sound_Design-Mixing_&_Mastering-blueviolet?style=for-the-badge&logo=data:image/png;base64,..." />
+  <a href="https://steinberg.net/cubase">
+    <img src="https://img.shields.io/badge/Cubase-Music_Production-%23FF5E00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDE1bC01LTVsMS40LTEuNEwxMSAxNC4yVjEybC00LTRsMS40LTEuNEwxMiA5LjJWNWwyIDJsLTUtNWwxLjQtMS40TDEyIDMuMnYtLjJjNC40IDAgOCAzLjYgOCA4cy0zLjYgOC04IDh6Ii8+PC9zdmc+&logoColor=white&labelColor=2D2D2D" alt="Cubase Badge"/>
+  </a>
+  
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://img.shields.io/badge/Premiere_Pro-Video_Editing-%239999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=2D2D2D" alt="Premiere Pro Badge"/>
+  </a>
+  
+  <a href="https://www.adobe.com/products/aftereffects.html">
+    <img src="https://img.shields.io/badge/After_Effects-VFX_%26_Motion-%234848FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=2D2D2D" alt="After Effects Badge"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Sound_Design-Mixing_%26_Mastering-%239B59B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPjwvc3ZnPg==&logoColor=white&labelColor=2D2D2D" alt="Sound Design Badge"/>
+  </a>
 </p>
 
 ---
@@ -60,6 +75,26 @@
 
 ---
 
+## 📊 Skill Levels
+
+<p align="left">
+  <img src="https://progress-bar.dev/85/?title=Python&width=300&color=00D2FF&bg_color=0D1117" /><br>
+  <img src="https://progress-bar.dev/70/?title=Django&width=300&color=00D2FF&bg_color=0D1117" /><br>
+  <img src="https://progress-bar.dev/60/?title=C++&width=300&color=00D2FF&bg_color=0D1117" /><br>
+  <img src="https://progress-bar.dev/90/?title=HTML%2FCSS&width=300&color=00D2FF&bg_color=0D1117" /><br>
+  <img src="https://progress-bar.dev/75/?title=Music%20Production&width=300&color=9B59B6&bg_color=0D1117" /><br>
+  <img src="https://progress-bar.dev/65/?title=Video%20Editing&width=300&color=9B59B6&bg_color=0D1117" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
 <!-- ANIMATED SNAKE GAME -->
 <p align="center">
   <picture>
@@ -67,6 +102,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seyedalirezahn1/seyedalirezahn1/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyedalirezahn1/seyedalirezahn1/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+## ⚡ My Coding Setup
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="3D Desk"/>
 </p>
 
 ---
@@ -93,4 +135,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXhp7nG4nS/giphy.gif" width="200" />
+</p>
+
+<!-- WAVY FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 </p>
