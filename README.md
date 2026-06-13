@@ -78,8 +78,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="3D Desk"/>
 </p>
