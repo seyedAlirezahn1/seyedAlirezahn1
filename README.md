@@ -103,8 +103,29 @@
   </tr>
 </table>
 
-<br clear="both"/>
+<!-- ===== PLACEHOLDER: Project 2 ===== -->
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 15px; padding: 15px; margin-right: 20px; margin-bottom: 20px; width: 45%;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="#">
+        <img src="YOUR_BANNER_URL" width="100%" alt="Project 2" style="border-radius: 10px;"/>
+      </a>
+      <br/>
+      <h3>🚧 Coming Soon</h3>
+      <p><i>Your Next Awesome Project</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      </p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/🔗%20Coming%20Soon-%23555?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="Coming Soon"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+
+<br clear="both"/>
 ---
 ## 📊 GitHub Live Stats
 
