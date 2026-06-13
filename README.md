@@ -32,15 +32,10 @@
     <td align="center" width="60%" style="vertical-align: top; border: none;">
       <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,django&perline=6" alt="Core Skills" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=linux,bash,bootstrap,tailwindcss,git,github&perline=6" alt="Tools & Platforms" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,bootstrap,tailwindcss,git,github,figma&perline=6" alt="Tools & Platforms" />
     </td>
     <td align="center" width="40%" style="vertical-align: top; border: none;">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="3D Desk" style="border-radius: 15px;"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="border: none; padding-top: 15px;">
-      <img src="https://img.shields.io/badge/Network-Cisco%20%26%20Fundamentals-1E90FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge" />
     </td>
   </tr>
 </table>
