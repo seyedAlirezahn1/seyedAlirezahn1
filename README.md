@@ -38,12 +38,9 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="3D Desk" style="border-radius: 15px;"/>
     </td>
   </tr>
-  <!-- ===== ردیف پایینی: مهارت‌های تخصصی (NumPy & Network) ===== -->
   <tr>
     <td align="center" colspan="2" style="border: none; padding-top: 15px;">
-      <img src="https://skillicons.dev/icons?i=numpy&perline=1" alt="NumPy" />
-      &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Network-Cisco%20%26%20Fundamentals-1E90FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge" style="vertical-align: middle;"/>
+      <img src="https://img.shields.io/badge/Network-Cisco%20%26%20Fundamentals-1E90FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge" />
     </td>
   </tr>
 </table>
