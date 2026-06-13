@@ -30,7 +30,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="60%" style="vertical-align: top; border: none;">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,django,fogma&perline=6" alt="Core Skills" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,django,figma&perline=7" alt="Core Skills" />
       <br/>
       <img src="https://skillicons.dev/icons?i=linux,bash,bootstrap,tailwindcss,git,github&perline=6" alt="Tools & Platforms" />
     </td>
