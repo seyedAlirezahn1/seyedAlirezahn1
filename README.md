@@ -24,20 +24,20 @@
 - 🌐 Love solving coding challenges and working with **C++**
 
 ---
-
 ## 🛠️ Tech Stack & Magic Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,git,linux,vscode,github,bash,postgres&perline=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="3D Desk"/>
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="60%">
+      <!-- آیکون‌های مهارت‌ها -->
+      <img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,git,linux,vscode,github,bash,postgres&perline=6" alt="Tech Stack" />
+    </td>
+    <td align="center" width="40%">
+      <!-- گیف سه‌بعدی میز کار -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="3D Desk" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
 
 ## 🎧 Creative Studio
 
