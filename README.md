@@ -75,7 +75,7 @@
 ## 📂 My Projects
 
 <!-- ===== Project 1: Django Blog ===== -->
-<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 380px;">
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 300px;">
   <tr>
     <td align="center" style="border: none;">
       <!-- Project Title -->
@@ -100,7 +100,7 @@
 
 <!-- ===== PLACEHOLDER: Project 2 ===== -->
 
-<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 380px;">
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 300px;">
   <tr>
     <td align="center" style="border: none;">
       <h3 style="margin: 0 0 10px 0;">🚧 Coming Soon</h3>
