@@ -75,7 +75,7 @@
 ## 📂 My Projects
 
 <!-- ===== Project 1: Django Blog ===== -->
-<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 15px; padding: 20px; margin-right: 20px; margin-bottom: 20px; width: 45%;">
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 380px;">
   <tr>
     <td align="center" style="border: none;">
       <!-- Project Title -->
@@ -83,7 +83,7 @@
       <!-- Project Description -->
       <p style="color: #8b949e; margin: 0 0 15px 0;"><i>Full Stack Web Application with Admin Panel</i></p>
       <!-- Tech Badges -->
-      <p style="margin: 0 0 15px 0;">
+      <p style="margin: 0 0 15px 0; line-height: 2.5;">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -100,12 +100,12 @@
 
 <!-- ===== PLACEHOLDER: Project 2 ===== -->
 
-<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 15px; padding: 20px; margin-right: 20px; margin-bottom: 20px; width: 45%;">
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 20px; max-width: 380px;">
   <tr>
     <td align="center" style="border: none;">
       <h3 style="margin: 0 0 10px 0;">🚧 Coming Soon</h3>
       <p style="color: #8b949e; margin: 0 0 15px 0;"><i>Your Next Awesome Project</i></p>
-      <p style="margin: 0 0 15px 0;">
+      <p style="margin: 0 0 15px 0; line-height: 2.5;">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
       </p>
