@@ -74,35 +74,36 @@
 
 ## 📂 My Projects
 
-<p align="center">
-  <a href="https://github.com/seyedAlirezahn1/django-blog">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Project Banner" style="border-radius: 15px;"/>
-  </a>
-</p>
+<!-- ===== Project 1: Django Blog ===== -->
+<table align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 15px; padding: 15px; margin-right: 20px; margin-bottom: 20px; width: 45%;">
+  <tr>
+    <td align="center" style="border: none;">
+      <!-- Project Banner -->
+      <a href="https://github.com/seyedAlirezahn1/django-blog">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Django Blog Banner" style="border-radius: 10px;"/>
+      </a>
+      <br/>
+      <!-- Project Title -->
+      <h3>🚀 Django Blog</h3>
+      <!-- Project Description -->
+      <p><i>Full Stack Web Application with Admin Panel</i></p>
+      <!-- Tech Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </p>
+      <!-- CTA Button -->
+      <a href="https://github.com/seyedAlirezahn1/django-blog">
+        <img src="https://img.shields.io/badge/🔗%20View%20Project-%2300D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-  🚀 Django Blog — Full Stack Web Application
-</h3>
-
-<p align="center">
-  A fully dynamic <b>blog & CMS</b> built with Django, featuring admin panel, comments, categories, and more.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/seyedAlirezahn1/django-blog">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project%20on%20GitHub-%2300D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="View Project"/>
-  </a>
-</p>
-
-<br/>
+<br clear="both"/>
 
 ---
 ## 📊 GitHub Live Stats
