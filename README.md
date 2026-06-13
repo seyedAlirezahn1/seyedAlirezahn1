@@ -72,6 +72,15 @@
 
 ---
 
+## 📂 My Projects
+
+<p align="center">
+  <a href="https://github.com/seyedAlirezahn1/django-blog">
+    <img src="https://img.shields.io/badge/Django%20Blog-Full%20Stack%20Web%20App-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2D2D2D" alt="Django Blog Project"/>
+  </a>
+</p>
+
+---
 ## 📊 GitHub Live Stats
 
 <p align="center">
