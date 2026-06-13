@@ -25,19 +25,21 @@
 
 ---
 
-## 🛠️ Tech Stack & Magic Tools
+## 📊 Live Stats & Coding Setup
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,git,linux,vscode,github,bash,postgres&perline=6" />
+  <a href="https://github.com/seyedalirezahn1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seyedalirezahn1&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedalirezahn1&layout=compact&langs_count=8&theme=blueberry&border_radius=15&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF"/>
+  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="3D Desk" style="border-radius: 15px;"/>
 </p>
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="3D Desk"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyedalirezahn1&theme=blueberry&background=0D1117&border_radius=15&stroke=00D2FF&ring=00D2FF&fire=FFD700&sideNums=00D2FF&currStreakLabel=00D2FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seyedalirezahn1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ## 🎧 Creative Studio
 
