@@ -14,14 +14,13 @@
 
 ---
 
-## 🚀 About Me (The Future CEO 😎)
+## 🚀 About Me 😎
 
-- 🔥 Passionate **programmer**, **musician**, and future **tech entrepreneur**
-- 🎯 Goal: Build a giant **tech company** in Iran for empowering the youth
-- 🧠 Currently diving deep into **AI** and preparing for the **AI Olympiad**
+- 🔥 Passionate **programmer**, **musician**
+- 🧠 Currently diving deep into **AI**
 - 🛡️ Gaining knowledge in **cybersecurity** and **network fundamentals**
 - 🎵 Composing & editing music with **Cubase** — coding with rhythm!
-- 🐧 Arch Linux enthusiast, soon ricing **Hyprland** via **ML4W**
+- 🐧 Linux enthusiast
 - 🌐 Love solving coding challenges and working with **C++**
 
 ---
