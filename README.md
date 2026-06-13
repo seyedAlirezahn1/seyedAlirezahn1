@@ -85,9 +85,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyedalirezahn1&theme=blueberry&background=0D1117&border_radius=15&stroke=00D2FF&ring=00D2FF&fire=FFD700&sideNums=00D2FF&currStreakLabel=00D2FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seyedalirezahn1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
