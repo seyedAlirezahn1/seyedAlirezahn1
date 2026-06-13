@@ -27,16 +27,12 @@
 
 ## 🛠️ Tech Stack & Magic Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="60%">
-      <img src="https://skillicons.dev/icons?i=python,numpy,html,css,js,cpp,django,linux,bash,bootstrap,tailwindcss,git,github" alt="Tech Stack" />
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzeGg0eGlweTlxZzN6a3Z4ejR4eXN1YzFqZmg5dGJ5amYwdmFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="3D Desk" style="border-radius: 15px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,django&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,bootstrap,tailwindcss,git,github&perline=6" />
+</p>
 
 ## 🎧 Creative Studio
 
