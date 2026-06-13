@@ -42,6 +42,14 @@
 
 ---
 
+## Other skills✨
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-Data%20Science-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=2D2D2D" alt="NumPy Badge"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Network-Fundamentals-1E90FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge"/>
+</p>
+
+---
 ## 🎧 Creative Studio
 
 <p align="center">
