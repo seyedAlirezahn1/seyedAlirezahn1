@@ -26,11 +26,16 @@
 ---
 ## 🛠️ Tech Stack & Magic Tools
 
+## 🛠️ Tech Stack & Magic Tools
+
 <table align="center">
   <tr>
     <td align="center" width="60%">
       <!-- آیکون‌های مهارت‌ها -->
-      <img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,git,linux,vscode,github,bash,postgres&perline=6" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=python,numpy,html,css,js,cpp,django,linux,bash,bootstrap,tailwind,git,github&perline=7" alt="Tech Stack" />
+      <br />
+      <!-- شبکه (Network) چون توی skillicons نیست، دستی با Badge می‌سازیم -->
+      <img src="https://img.shields.io/badge/Network-CCNA%20%7C%20Fundamentals-00D2FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=2D2D2D" alt="Network Badge" />
     </td>
     <td align="center" width="40%">
       <!-- گیف سه‌بعدی میز کار -->
