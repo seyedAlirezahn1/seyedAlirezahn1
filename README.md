@@ -39,6 +39,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 ## 🎧 Creative Studio
 
 <p align="center">
