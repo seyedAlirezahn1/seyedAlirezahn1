@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Live Stats (Animated)
+## 📊 GitHub Live Stats
 
 <p align="center">
   <a href="https://github.com/seyedalirezahn1">
