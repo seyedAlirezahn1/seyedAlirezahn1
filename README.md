@@ -18,7 +18,7 @@
 
 - 🔥 Passionate **programmer**, **musician**
 - 🧠 Currently diving deep into **AI**
-- 🛡️ Gaining knowledge in **cybersecurity** and **network fundamentals**
+- 🛡️ **cybersecurity** and **network fundamentals**
 - 🎵 Composing & editing music with **Cubase** — coding with rhythm!
 - 🐧 Linux enthusiast
 - 🌐 Love solving coding challenges and working with **C++**
